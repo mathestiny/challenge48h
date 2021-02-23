@@ -6,7 +6,7 @@ La connexion a la base de données se situe dans "inc/header.inc.php"
 La base de données en local s'appelle passionfroid
 
 Identifiant de tests : 
-email : "annonces.test@gmail.com"  - mot de passe : "test" 
+email : "annonces.test@gmail.com"  - mot de passe : "test" ///
 email : "client.test@gmail.com" - mot de passe : "test"
  
  
