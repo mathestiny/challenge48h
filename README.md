@@ -12,5 +12,5 @@ email : "client.test@gmail.com" - mot de passe : "test"
  
 Chef de Projet : KREPA Tom [B3] @TomKrepa https://github.com/TomKrepa
 
-Membres : TURAM ULLIEN Elodie [B2]  - MAHENDRARASAN Mathursan [B2] @Rshzyyy https://github.com/Rshzyyy - KRIBA Rayan [B1] @Rayankrb https://github.com/RayanKrb
+Membres : TURAM ULLIEN Elodie [B2] @elodieturamullien https://github.com/elodieturamullien - MAHENDRARASAN Mathursan [B2] @Rshzyyy https://github.com/Rshzyyy - KRIBA Rayan [B1] @Rayankrb https://github.com/RayanKrb
   
