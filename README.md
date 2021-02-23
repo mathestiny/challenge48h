@@ -5,8 +5,9 @@ Projet PHP avec une base de données MySQL
 La connexion a la base de données se situe dans "inc/header.inc.php" 
 La base de données en local s'appelle passionfroid
 
-Identifiant de tests : email : "annonces.test@gmail.com"  - mot de passe : "test" 
-                               "client.test@gmail.com" - mot de passe : "test"
+Identifiant de tests : 
+email : "annonces.test@gmail.com"  - mot de passe : "test" 
+email : "client.test@gmail.com" - mot de passe : "test"
  
  
 Chef de Projet : KREPA Tom [B3] @TomKrepa https://github.com/TomKrepa
