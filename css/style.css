@@ -1,0 +1,57 @@
+/* image principal */
+.main {
+  height: 500px;
+  background-image: url("../img/main/1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+/* Categories */
+.titre-categorie h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 20px;
+  margin: 60px 0;
+}
+
+.text_1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+.categorie {
+  position: relative;
+}
+
+.categorie button {
+  display: none;
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  background: black;
+  color: white;
+  border: 1px solid black;
+  height: 50px;
+  width: 50%;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: â€˜Poppinsâ€™, sans-serif;
+  font-weight: bold;
+}
+
+.categorie:hover .image {
+  opacity: 0.5;
+}
+
+.categorie:hover button {
+  transition: ease-out 3s;
+  display: block;
+}
+
+.categories {
+  display: flex;
+  width: auto;
+  justify-content: space-evenly;
+}
