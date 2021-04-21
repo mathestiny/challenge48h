@@ -2,6 +2,8 @@
 
 Projet PHP avec une base de données MySQL
 
+Il faut lancer le projet depuis le dossier /www de wamp
+
 La connexion a la base de données se situe dans "inc/header.inc.php" 
 La base de données en local s'appelle passionfroid
 
