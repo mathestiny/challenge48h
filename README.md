@@ -3,9 +3,8 @@
 Projet PHP avec une base de données MySQL
 
 LANCER NOTRE PROJET :
-Ouvrir le fichier index.php depuis le dossier /www de wamp
-La connexion a la base de données se situe dans "inc/header.inc.php"
-La base de données en local s'appelle passionfroid.
+Ouvrir le fichier index.php depuis le dossier /www de wamp.
+La connexion a la base de données se situe dans "inc/header.inc.php" et elle s'appelle en local passionfroid.
 
 Identifiant de tests : 
 email : "annonces.test@gmail.com"  - mot de passe : "test" ///
